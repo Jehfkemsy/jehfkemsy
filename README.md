@@ -10,7 +10,7 @@ Fun facts:
 Let's connect:
 
 <p>
-<a href="https://jehfkemsy.me"><img src="https://img.shields.io/badge/-jehfkemsy.me-1A73E8?style=flat-square&amp;labelColor=1A73E8&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://jehfkemsy.me" alt="jehfkemsy.me"></a>
-<a href="https://www.linkedin.com/in/jehfkemsy/"><img src="https://img.shields.io/badge/-jehfkemsy-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jehfkemsy/" alt="jehfkemsy.me"></a>
-<a href="mailto:jehfkemsy@gmail.com"><img src="https://img.shields.io/badge/-jehfkemsy-EA4335?style=flat-square&amp;labelColor=EA4335&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jehfkemsy@gmail.com" alt="jehfkemsy@gmail.com"></a>
+<a href="https://jehfkemsy.me"><img src="https://img.shields.io/badge/-jehfkemsy.me-539bf5?style=flat-square&amp;labelColor=539bf5&amp;logo=Google-Chrome&amp;logoColor=white&amp;link=https://jehfkemsy.me" alt="jehfkemsy.me"></a>
+<a href="https://www.linkedin.com/in/jehfkemsy/"><img src="https://img.shields.io/badge/-jehfkemsy-539bf5?style=flat-square&amp;labelColor=539bf5&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jehfkemsy/" alt="jehfkemsy.me"></a>
+<a href="mailto:jehfkemsy@gmail.com"><img src="https://img.shields.io/badge/-jehfkemsy-539bf5?style=flat-square&amp;labelColor=539bf5&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:jehfkemsy@gmail.com" alt="jehfkemsy@gmail.com"></a>
  </p>
